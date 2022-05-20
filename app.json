@@ -3,8 +3,14 @@
     "name": "enoch-blog",
     "slug": "enoch-blog",
     "version": "1.0.0",
+    "splash":{
+      "image":"./assets/splash.png",
+      "resizeMode":"cover",
+      "backgroundColor":"#F66B0E"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
   }
+  
 }
